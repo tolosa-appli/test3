@@ -1,0 +1,16 @@
+{
+  "node": {
+    "40d9fe0102bcc4e8fe893b8176607469210ec4c4ff": {
+      "workers": {
+        "app/(app)/forum/[theme]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/forum/[theme]/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/generate-discussion-starter.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(app)/forum/[theme]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

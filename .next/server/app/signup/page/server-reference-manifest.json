@@ -1,0 +1,16 @@
+{
+  "node": {
+    "40d6f8f0445a8c32f2ec2f365ed985efffeb19e4ec": {
+      "workers": {
+        "app/signup/page": {
+          "moduleId": "[project]/.next-internal/server/app/signup/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/signup/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/signup/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

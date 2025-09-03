@@ -1,0 +1,9 @@
+dossier :
+cache dans .next
+chunks dans server de .next
+chunks dans static
+
+et :
+
+node_modules
+
